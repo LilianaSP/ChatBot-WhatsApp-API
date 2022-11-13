@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:20221102T230000Z
+DTEND:20221103T000000Z
+SUMMARY:Entrega de pedido
+DESCRIPTION:Hola! Gracias por agendar la cita de entrega de nuestros increíbles cupcackes. 
+LOCATION:Zapopan
+END:VEVENT
+END:VCALENDAR
